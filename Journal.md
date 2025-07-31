@@ -16,6 +16,9 @@ Time Spend: 4h
 <img width="404" height="287" alt="brave_dxcqPAvVDw" src="https://github.com/user-attachments/assets/69e739bf-2a21-4bbb-8719-fb62511f6dc8" />
 <img width="380" height="250" alt="brave_pUI8jbdX6B" src="https://github.com/user-attachments/assets/8694be15-b020-4bcb-9ae7-8a67012bb359" />
 
+‎## July ‎25, ‎2025
+Time Spend: 1h 30m
+
 - finally after brainstoming alot of designs i came up with this:
 <img width="398" height="238" alt="brave_BC8KGrDnpx" src="https://github.com/user-attachments/assets/25157be4-7eec-41dd-9bf2-24c1092ba134" />
 <img width="389" height="259" alt="brave_JCQsfKEgyL" src="https://github.com/user-attachments/assets/0a248eb6-fb3b-4a8f-a16a-e99da8bc30ef" />
