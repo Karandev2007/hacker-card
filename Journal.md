@@ -6,7 +6,7 @@ Time Spend: 25m
 - made schematic of pcb card, used https://jams.hackclub.com/jam/hacker-card
 <img width="607" height="585" alt="image" src="https://github.com/user-attachments/assets/b8430409-fa93-4489-a8bf-9b29b3ee22a6" />
 
-‎## July ‎20, ‎2025
+## July ‎20, ‎2025
 Time Spend: 4h
 
 - after checking some cards from other teenagers, i tested some designs. tbh this took alot of time
@@ -16,7 +16,7 @@ Time Spend: 4h
 <img width="404" height="287" alt="brave_dxcqPAvVDw" src="https://github.com/user-attachments/assets/69e739bf-2a21-4bbb-8719-fb62511f6dc8" />
 <img width="380" height="250" alt="brave_pUI8jbdX6B" src="https://github.com/user-attachments/assets/8694be15-b020-4bcb-9ae7-8a67012bb359" />
 
-‎## July ‎25, ‎2025
+## July ‎25, ‎2025
 Time Spend: 1h 30m
 
 - finally after brainstoming alot of designs i came up with this:
