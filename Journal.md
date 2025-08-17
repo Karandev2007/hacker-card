@@ -28,3 +28,17 @@ Time Spend: 1h 30m
 <img width="370" height="269" alt="brave_Ql5dxUqArN" src="https://github.com/user-attachments/assets/ca6163cf-fbf5-4829-86a7-3cd9fb31cdb8" />
 
 i locked this card design after removing those dots.
+
+- changed leds as made it more complex and made a art to put on card:
+<img width="214" height="245" alt="brave_kkBFbwKIH3" src="https://github.com/user-attachments/assets/a0a53828-4b9c-46d1-8fd1-1dd7eeb1a9ed" />
+<img width="243" height="235" alt="brave_gRbMnwfuua" src="https://github.com/user-attachments/assets/770dbe2e-0dc8-4935-a552-7a34cd929173" />
+<img width="214" height="245" alt="brave_kkBFbwKIH3" src="https://github.com/user-attachments/assets/08f37d7c-cc21-4cef-bc06-94fd40503b5a" />
+
+- new circuit after adding another LED:
+<img width="565" height="592" alt="image" src="https://github.com/user-attachments/assets/afc5464b-2e39-4842-aedb-5dcad7f8d51a" />
+
+- completed routing (desgin was already there before)
+<img width="708" height="450" alt="image" src="https://github.com/user-attachments/assets/a5f6b371-22f7-43a5-91c0-bf677caabad7" />
+
+- 2D View of Card:
+<img width="742" height="473" alt="image" src="https://github.com/user-attachments/assets/b55cfdc5-99c6-4248-b02c-d9bcd41de524" />
