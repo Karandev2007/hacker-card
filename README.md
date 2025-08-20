@@ -16,6 +16,6 @@ A NFC powered business card made with PCB with social links and a QR Code to my 
 | 0603WAF470JT5E (47Ω resistor)    | 1        | $0.01    | [Link](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) |
 | Hubei KENTO Elec KT-0805Y     | 1        | $0.0116    | [Link](https://lcsc.com/product-detail/LED-Indication---Discrete_Hubei-KENTO-Elec-KT-0805Y_C2296.html) |
 
-Total: $0.912
-
-Grand Total: $10.28
+Merchandise Total: $46.81
+Shipping Estimate: $16.97
+Grand Total: $44.28
