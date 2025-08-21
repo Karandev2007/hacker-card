@@ -18,6 +18,9 @@ A NFC powered business card made with PCB with social links and a QR Code to my 
 | KT-0805G     | 2        | $0.0214    | [Link](https://lcsc.com/product-detail/LED-Indication---Discrete_Hubei-KENTO-Elec-KT-0805Y_C2296.html) |
 
 Merchandise Total: $17.81
+
 Shipping Estimate: $15.04
+
 Discount: $20
+
 Grand Total: $12.85
