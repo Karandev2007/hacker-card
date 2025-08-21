@@ -1,7 +1,10 @@
 Part Name,Quantity,Cost,Link
-"NT3H2111W0FHKH",1,0.8856,"https://lcsc.com/product-detail/RFID-ICs_NXP-NT3H2111W0FHKH_C710403.html"
-"CL10B224KA8NNNC (220 nF capacitor)",1,0.01,"https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120"
-"0603WAF470JT5E (47Ω resistor)",1,0.01,"https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182"
-"Hubei KENTO Elec KT-0805Y",1,0.0116,"https://lcsc.com/product-detail/LED-Indication---Discrete_Hubei-KENTO-Elec-KT-0805Y_C2296.html"
-"Total","",0.912,""
-"Grand Total","",10.28,""
+NT3H2111W0FHKH,2,$1.2840,https://lcsc.com/product-detail/RFID-ICs_NXP-NT3H2111W0FHKH_C710403.html
+CL10B224KA8NNNC (220 nF capacitor),2,$0.0108,https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120
+0603WAF470JT5E (47Ω resistor),4,$0.0044,https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182
+KT-0603R,2,$0.0112,https://lcsc.com/product-detail/LED-Indication---Discrete_Hubei-KENTO-Elec-KT-0805Y_C2296.html
+KT-0805G,2,$0.0214,https://lcsc.com/product-detail/LED-Indication---Discrete_Hubei-KENTO-Elec-KT-0805Y_C2296.html
+Merchandise Total,,$17.81,
+Shipping Estimate,,$15.04,
+Discount,,-$20,
+Grand Total,,$12.85,
